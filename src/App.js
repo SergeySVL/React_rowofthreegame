@@ -1,3 +1,5 @@
+// created with CRA (Create React App) which is now deprecated - it installed many node_modules - need to use newer tools
+
 import { useEffect, useState } from "react";
 import ScoreBoard from "./components/ScoreBoard";
 import blueCandy from './images/blue-candy.png'
